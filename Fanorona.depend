@@ -1,0 +1,390 @@
+# depslib dependency file v1.0
+1644742955 source:c:\users\adam\desktop\projetc\v1\fonctions.c
+	"fhead.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1644741457 c:\users\adam\desktop\projetc\v1\fhead.h
+
+1644741627 source:c:\users\adam\desktop\projetc\v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"fhead.h"
+
+1644741627 source:c:\users\adam\desktop\projetc\v1 - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"fhead.h"
+
+1645260633 c:\users\adam\desktop\projetc\v1 - copie\fhead.h
+
+1647778581 source:c:\users\adam\desktop\projetc\version_courante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"affichage.h"
+	"regles.h"
+	"Joueurs.h"
+	"CaptureMultiple.h"
+	"CaptureObligatoire.h"
+	"IA.h"
+
+1645260633 c:\users\adam\desktop\projetc\version_courante\fhead.h
+
+1646234423 source:c:\users\adam\desktop\projetc\version_courante\affichage.c
+	"affichage.h"
+	<stdlib.h>
+	<stdio.h>
+
+1647330603 source:c:\users\adam\desktop\projetc\version_courante\regles.c
+	"regles.h"
+	<stdlib.h>
+	<stdio.h>
+	"affichage.h"
+
+1645358547 c:\users\adam\desktop\projetc\version_courante\regles.h
+
+1647280257 source:c:\users\adam\desktop\projetc\version_courante\capturepions.c
+	"CapturePions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645359546 c:\users\adam\desktop\projetc\version_courante\capturepions.h
+
+1645364357 source:c:\users\adam\desktop\projetc\version_courante\fonctions.c
+	"fhead.h"
+	<stdlib.h>
+	<stdio.h>
+
+1648983507 source:c:\users\adam\desktop\projetc\version_courante\captureobligatoire.c
+	"CaptureObligatoire.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645363056 c:\users\adam\desktop\projetc\version_courante\captureobligatoire.h
+
+1645363101 source:c:\users\adam\desktop\projetc\version_courante\capturemultiple.c
+	"CaptureMultiple.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645363065 c:\users\adam\desktop\projetc\version_courante\capturemultiple.h
+
+1648984264 source:c:\users\adam\desktop\projetc\version_courante\joueurs.c
+	"Joueurs.h"
+	<stdlib.h>
+	<stdio.h>
+	"CapturePions.h"
+	"affichage.h"
+	"IA.h"
+	"CaptureObligatoire.h"
+	"CaptureMultiple.h"
+
+1647330766 c:\users\adam\desktop\projetc\version_courante\joueurs.h
+
+1645357988 c:\users\adam\desktop\projetc\version_courante\affichage.h
+
+1647884240 source:c:\users\adam\desktop\projetc\version_courante\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"joueurs.h"
+	<limits.h>
+	"IA.h"
+	"affichage.h"
+	<string.h>
+	"CapturePions.h"
+	"CaptureObligatoire.h"
+
+1647771425 c:\users\adam\desktop\projetc\version_courante\ia.h
+
+1649345253 source:c:\users\oussama\desktop\version_courante\affichage.c
+	"affichage.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1645354388 c:\users\oussama\desktop\version_courante\affichage.h
+
+1649291210 source:c:\users\oussama\desktop\version_courante\capturemultiple.c
+	"CaptureMultiple.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645359465 c:\users\oussama\desktop\version_courante\capturemultiple.h
+
+1649291682 source:c:\users\oussama\desktop\version_courante\captureobligatoire.c
+	"CaptureObligatoire.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645359456 c:\users\oussama\desktop\version_courante\captureobligatoire.h
+
+1649293616 source:c:\users\oussama\desktop\version_courante\capturepions.c
+	"CapturePions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645355946 c:\users\oussama\desktop\version_courante\capturepions.h
+
+1649288785 source:c:\users\oussama\desktop\version_courante\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"joueurs.h"
+	<limits.h>
+	"IA.h"
+	"affichage.h"
+	<string.h>
+	"CapturePions.h"
+	"CaptureObligatoire.h"
+
+1647327166 c:\users\oussama\desktop\version_courante\joueurs.h
+
+1647767825 c:\users\oussama\desktop\version_courante\ia.h
+
+1649346154 source:c:\users\oussama\desktop\version_courante\joueurs.c
+	"Joueurs.h"
+	<stdlib.h>
+	<stdio.h>
+	"CapturePions.h"
+	"affichage.h"
+	"IA.h"
+	"CaptureObligatoire.h"
+	"CaptureMultiple.h"
+
+1649347894 source:c:\users\oussama\desktop\version_courante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"affichage.h"
+	"regles.h"
+	"Joueurs.h"
+	"CaptureMultiple.h"
+	"CaptureObligatoire.h"
+	"IA.h"
+
+1645354947 c:\users\oussama\desktop\version_courante\regles.h
+
+1649302582 source:c:\users\oussama\desktop\version_courante\regles.c
+	"regles.h"
+	<stdlib.h>
+	<stdio.h>
+
+1649345253 source:c:\users\user\desktop\version_courante_avant_final\affichage.c
+	"affichage.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1645357988 c:\users\user\desktop\version_courante_avant_final\affichage.h
+
+1649291210 source:c:\users\user\desktop\version_courante_avant_final\capturemultiple.c
+	"CaptureMultiple.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645363065 c:\users\user\desktop\version_courante_avant_final\capturemultiple.h
+
+1649291682 source:c:\users\user\desktop\version_courante_avant_final\captureobligatoire.c
+	"CaptureObligatoire.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645363056 c:\users\user\desktop\version_courante_avant_final\captureobligatoire.h
+
+1649293616 source:c:\users\user\desktop\version_courante_avant_final\capturepions.c
+	"CapturePions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645359546 c:\users\user\desktop\version_courante_avant_final\capturepions.h
+
+1649288785 source:c:\users\user\desktop\version_courante_avant_final\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"joueurs.h"
+	<limits.h>
+	"IA.h"
+	"affichage.h"
+	<string.h>
+	"CapturePions.h"
+	"CaptureObligatoire.h"
+
+1649358428 c:\users\user\desktop\version_courante_avant_final\joueurs.h
+
+1647771425 c:\users\user\desktop\version_courante_avant_final\ia.h
+
+1649346154 source:c:\users\user\desktop\version_courante_avant_final\joueurs.c
+	"Joueurs.h"
+	<stdlib.h>
+	<stdio.h>
+	"CapturePions.h"
+	"affichage.h"
+	"IA.h"
+	"CaptureObligatoire.h"
+	"CaptureMultiple.h"
+
+1649302582 source:c:\users\user\desktop\version_courante_avant_final\regles.c
+	"regles.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645358547 c:\users\user\desktop\version_courante_avant_final\regles.h
+
+1649350345 source:c:\users\user\desktop\version_courante_avant_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"affichage.h"
+	"regles.h"
+	"Joueurs.h"
+	"CaptureMultiple.h"
+	"CaptureObligatoire.h"
+	"IA.h"
+
+1649291210 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\capturemultiple.c
+	"CaptureMultiple.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645359465 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\capturemultiple.h
+
+1649196697 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\captureobligatoire.c
+	"CaptureObligatoire.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645359456 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\captureobligatoire.h
+
+1649293616 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\capturepions.c
+	"CapturePions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645355946 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\capturepions.h
+
+1649288785 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"joueurs.h"
+	<limits.h>
+	"IA.h"
+	"affichage.h"
+	<string.h>
+	"CapturePions.h"
+	"CaptureObligatoire.h"
+
+1649358428 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\joueurs.h
+
+1647767825 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\ia.h
+
+1645354388 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\affichage.h
+
+1649197217 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\joueurs.c
+	"Joueurs.h"
+	<stdlib.h>
+	<stdio.h>
+	"CapturePions.h"
+	"affichage.h"
+	"IA.h"
+	"CaptureObligatoire.h"
+	"CaptureMultiple.h"
+
+1649302582 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\regles.c
+	"regles.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645354947 c:\users\adam\desktop\projetc\vf\version_courante_avant_final\regles.h
+
+1649362867 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\affichage.c
+	"affichage.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1649363299 source:c:\users\adam\desktop\projetc\vf\version_courante_avant_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"affichage.h"
+	"regles.h"
+	"Joueurs.h"
+	"CaptureMultiple.h"
+	"CaptureObligatoire.h"
+	"IA.h"
+
+1649362867 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\affichage.c
+	"affichage.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1645350788 c:\users\oussa\onedrive\desktop\fanorona_code_source\affichage.h
+
+1649291210 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\capturemultiple.c
+	"CaptureMultiple.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645355865 c:\users\oussa\onedrive\desktop\fanorona_code_source\capturemultiple.h
+
+1649196697 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\captureobligatoire.c
+	"CaptureObligatoire.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645355856 c:\users\oussa\onedrive\desktop\fanorona_code_source\captureobligatoire.h
+
+1649293616 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\capturepions.c
+	"CapturePions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1645352346 c:\users\oussa\onedrive\desktop\fanorona_code_source\capturepions.h
+
+1649288785 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"joueurs.h"
+	<limits.h>
+	"IA.h"
+	"affichage.h"
+	<string.h>
+	"CapturePions.h"
+	"CaptureObligatoire.h"
+
+1649358428 c:\users\oussa\onedrive\desktop\fanorona_code_source\joueurs.h
+
+1647764225 c:\users\oussa\onedrive\desktop\fanorona_code_source\ia.h
+
+1649197217 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\joueurs.c
+	"Joueurs.h"
+	<stdlib.h>
+	<stdio.h>
+	"CapturePions.h"
+	"affichage.h"
+	"IA.h"
+	"CaptureObligatoire.h"
+	"CaptureMultiple.h"
+
+1649363299 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"affichage.h"
+	"regles.h"
+	"Joueurs.h"
+	"CaptureMultiple.h"
+	"CaptureObligatoire.h"
+	"IA.h"
+
+1645351347 c:\users\oussa\onedrive\desktop\fanorona_code_source\regles.h
+
+1649302582 source:c:\users\oussa\onedrive\desktop\fanorona_code_source\regles.c
+	"regles.h"
+	<stdlib.h>
+	<stdio.h>
+

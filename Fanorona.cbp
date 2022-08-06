@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Fanorona" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Number_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Number_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CaptureMultiple.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CaptureMultiple.h" />
+		<Unit filename="CaptureObligatoire.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CaptureObligatoire.h" />
+		<Unit filename="CapturePions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CapturePions.h" />
+		<Unit filename="IA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IA.h" />
+		<Unit filename="Joueurs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Joueurs.h" />
+		<Unit filename="affichage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichage.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="regles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="regles.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+	                 		  	               __                                        
+        	  			                      / _|                                       
+        		       		                     | |_ __ _ _ __   ___  _ __ ___  _ __   __ _ 
+         		    	                   	     |  _/ _` | '_ \ / _ \| '__/ _ \| '_ \ / _` |
+            			                   	     | || (_| | | | | (_) | | | (_) | | | | (_| |
+              				                     |_| \__,_|_| |_|\___/|_|  \___/|_| |_|\__,_|
+                                             
+                                             
+ 
+                                     			            	        Regles !
+                                                            
+                                                                               
+                                  ____________________________________________________________________________________________________
+                                 |                                                                                                    |
+                                 |  Au debut de la partie les pions sont disposes comme sur la figure ci-contre. Chaque joueur        |
+                                 |  dispose de 22 pions. On tire au sort le joueur qui commence.                                      |
+                                 |  Le but du jeu est de capturer tous les pions de l'adversaire. A son tour de jeu, un joueur        |
+                                 |  doit deplacer une de ses pieces, dans n'importe quelle direction, d'une intersection a une        |
+                                 |  autre (en suivant les lignes) pourvu que le point d'arrivee soit vide.                            |
+                                 |  Il existe deux facons de capturer des pions :                                                     |
+                                 |     *Par approche : un joueur deplace l'un de ses pions vers un ou plusieurs pions adverses        |
+                                 |                     alignes. Le joueur capture tous les pions de l'alignement Dans l'exemple       |
+                                 |                     ci-contre le joueur noir prend les trois pions blancs.                         |
+                                 |     *Par eloignement : un joueur deplace l'un de ses pions en s'eloignant d'un ou plusieurs        |
+                                 |                        pions adverses aligne. Le joueur capture tous les pions de l'alignement     |
+                                 |                        Dans l'exemple ci-contre le joueur noir prend les trois pions blancs        |
+                                 |                                                                                                    |           
+                                 |____________________________________________________________________________________________________|
+
+
+
+                                                                 voulez vous revenir a l'acceuil (o/n) ? : 
